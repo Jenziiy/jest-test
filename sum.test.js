@@ -13,5 +13,5 @@ test('object assignment',() =>{
 test('adding positive numbers is not zero', () => {
   for (let i = 0; i < 10; i++) {
     for (let j = 1; j < 10; j++) {
-      expect(a+b).not.toBe(0);
+      expect(i+j).not.toBe(0);
     }}});
