@@ -3,7 +3,8 @@
     "@babel/core": "^7.23.2",
     "@babel/preset-env": "^7.23.2",
     "babel-jest": "^29.7.0",
-    "jest": "^29.7.0"
+    "jest": "^29.7.0",
+    "ts-node": "^10.9.1"
   },
   "name": "jest-test",
   "version": "1.0.0",
